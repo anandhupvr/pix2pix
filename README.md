@@ -1,11 +1,12 @@
 # pix2pix
 
 
-
-
-# Results
+# Results 
+#### trained for 100 iteration
 
 <p align="center">
   <img src="images/sketch.jpg" width="300">
-  <img src="images/real.jpg" width="300">
+  <br><strong>input sketch</strong><br>
+  <br><img src="images/real_out.png" width="300"><br>
+  <strong>Real Output Image</strong>
 </p>
